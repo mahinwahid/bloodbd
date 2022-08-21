@@ -1,0 +1,360 @@
+<html>
+    <title>Tashdid Bin Wahid</title>
+
+    <body style="overflow-x:hidden;background-color: rgb(0, 0, 0);" > 
+        
+        
+        <div >
+        <style>
+                    .topnav {
+        background-color: rgb(255, 255, 255);
+        overflow: hidden;
+        }
+
+        /* Style the links inside the navigation bar */
+        .topnav a {
+        float: right;
+        color: #000000;
+        text-align: center;
+        padding: 14px 17px;
+        text-decoration: coral;
+        font-size: 20px;
+        font-family: 'Hind Siliguri';
+        font-style: bold;
+        font-weight: 200;
+        font-size: 20px;
+        line-height: 33px;
+
+        }
+
+        /* Change the color of links on hover */
+        .topnav a:hover {
+        color: #ad0000;
+        color: #AD0000(240, 240, 240);
+        }
+
+        /* Add a color to the active/current link */
+        .topnav a.active {
+        background-color: #AD0000;
+        color: white;
+        }
+        </style>
+        <div class="topnav">
+            
+            
+            <a href="#contact">About Us</a>
+            <a href="#about">Contact</a>
+            <a href="#about">Hotline</a>
+            <a href="#about">Security</a>
+            <a href="#news">Blood Database</a>
+        <img src="F:\web/Frame.png" 
+                style= "width: 267px;
+                height: 49px;
+                margin-left: 30px;
+                margin-top: 5px;">
+
+        <video src="F:\web/loop.mp4" autoplay loop muted 
+        style="width: 1605px;
+        height: 832px;
+        margin-left: -20px;
+        margin-top: 14px; background-color: #000000;"></video>
+        
+        </div>
+        
+        
+        
+    </div>
+        
+    
+    <h1 style="position: absolute;
+      width: 330px;
+      height: 207px;
+      left: 635px;
+      top: 260px;
+      
+      font-family: 'Hind Siliguri';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 128px;
+      line-height: 207px;color:aliceblue">রক্তচাই</h1>
+      
+      
+      
+      <p style="position: absolute;
+      width: 1086px;
+      height: 141px;
+      left: 257px;
+      top: 522px;
+      
+      font-family: 'Hind Siliguri';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 29px;
+      line-height: 47px;
+      text-align: center;color: aliceblue;"
+      >বাংলাদেশে এখন বছরে ৬ লাখ ব্যাগ রক্তের প্রয়োজন৷ এর ৯০ ভাগই পাওয়া যায় স্বেচ্ছায় রক্তদাতাদের 
+      কাছ থেকে৷ তাই পেশাদার রক্তদাতাদের দৌরাত্ম অনেকটাই কমে গেছে৷ আশা করা হচ্ছে, ৫ বছর পর 
+      পেশাদার রক্তদাতা আর থাকবে না৷ ধন্যবাদ আপনাদের!</p>
+      
+    </div>
+    
+        
+    <div style="background-color: rgb(0, 0, 0);">
+        <p style="position: absolute;
+        width: 894px;
+        height: 520px;
+        left: 99px;
+        top: 1130px;
+        
+        font-family: 'Hind Siliguri';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 52px;
+        color: aliceblue;
+    ">আপনার কি রক্ত প্রয়োজন? আমাদের কাছে আছে আপনার প্রয়োজনীয় গ্রুপের সেচ্ছাসেবী রক্তদানকারীর বিশাল ডাটাবেস। 
+            খুজে নিন আপনার জরুরী গ্রুপের রক্ত।বাংলাদেশে প্রতি বছর ১৩ লাখ ব্যাগ রক্তের প্রয়োজন হয়। এর মধ্যে রক্ত না পেয়ে
+            মারা যান প্রায় ৫৫ হাজার মানুষ। প্রয়োজনীয় রক্তের ৩৫-৪০ ভাগ পাওয়া যায় রোগীর নিকটজন থেকে, ১৫-২০ ভাগ 
+            স্বেচ্ছাসেবী থেকে ও ১৫-২০ ভাগ পেশাদার রক্ত বিক্রেতা থেকে। বাকি ২০-২৫ ভাগ বা প্রায় ২.৫ লাখ ব্যাগ রক্তের 
+            ঘাটতি থেকে যায়। অন্যদিকে পেশাদার বিক্রেতারা যে ১৫-২০ শতাংশ রক্তের যোগান দেন তা অনিরাপদ। ফলে ঘাটতি
+            ও অনিরাপদ রক্তের পরিমাণ দাঁড়ায় প্রায় ৪০ শতাংশ বা প্রায় ৫ লাখ।
+        </p>
+        
+        <img src="F:\web/png.png" alt="" 
+            style="position: absolute;
+            width: 542px;
+            height: 540px;
+            margin-left: 959px;
+            margin-top: 200px;
+            ">
+        <img src="F:\web/Group 2.png" alt="" 
+        style="position: absolute;
+        width: 549px;
+        height: 100px;
+        left: 550px;
+        top: 950px;">
+        <p style="position: absolute;
+        width: 354px;
+        height: 78px;
+        left: 623px;
+        top: 990px;
+        
+        font-family: 'Hind Siliguri';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 78px;
+        color: aliceblue;">এ আপনাকে স্বাগতম</p>
+
+        <p style="position: absolute;
+        width: 1402px;
+        height: 312px;
+        left: 99px;
+        top: 1650px;
+        
+        font-family: 'Hind Siliguri';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 52px;
+        
+        color: #FFFFFF;">বর্তমানে দেশে সরকারি ও বেসরকারি বিভিন্ন ব্লাড ব্যাংক ও স্বেচ্ছাসেবী সংগঠন রক্ত সংগ্রহ ও বিতরণ করছে। এর মধ্যে কিছু 
+            কেন্দ্রে হেপাপাইটিস বি-সি, সিফিলিস, ম্যালেরিয়া এবং এইডসের স্ক্রিনিং ব্যবস্থা চালু রয়েছে। মধ্যে নিরাপদ রক্ত পরিসঞ্চালন
+            কর্মসূচি, কোয়ান্টাম ফাউন্ডেশন, বাঁধন, সন্ধানী ও রেড ক্রিসেন্ট অন্যতম। কিন্তু এসব প্রতিষ্ঠানের পক্ষে প্রয়োজনীয় রক্তের 
+            চাহিদা মেটানো সম্ভব হচ্ছে না। একই সঙ্গে প্রতিষ্ঠানগুলো শহরকেন্দ্রীক হওয়ায় তৃণমূলে রক্তের ঘাটতি থেকেই যায়। রক্তের
+            ঘাটতি থাকার প্রধান কারণ আমাদের অসচেতনতা।তাই আমরা এনেছি তৃনমূল পর্যায়ের  ডাটাবেস!</p>
+
+        <hr 
+            style="position: absolute;
+            width: 1466px;
+            height: 0px;
+            left: 75px;
+            top: 2008px;
+            
+            border: 1px solid #FFFFFF;">
+        
+        
+    </div>
+    
+    <div>
+        <h3 
+        style="position: absolute;
+        width: 447px;
+        height: 78px;
+        left: 107px;
+        top: 2064px;
+        
+        font-family: 'Hind Siliguri';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 78px;
+        /* identical to box height */
+        
+        text-align: center;
+        
+        color: #FFFFFF;"
+        >কোন রক্ত লাগে বেশি ?</h3>
+
+    <h3 style="position: absolute;
+    width: 481px;
+    height: 78px;
+    left: 559px;
+    top: 2064px;
+    
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 78px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;"
+    >রক্তদান করলে ফ্রি পরীক্ষা</h3>  
+    
+    <h3 style="position: absolute;
+    width: 481px;
+    height: 78px;
+    left: 1023px;
+    top: 2065px;
+    
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 78px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    ">রক্তদানের উপকারিতা</h3>
+
+        <img src="F:\web/bag.png" alt="" 
+        style="position: absolute;
+        left:  270px;
+        right: 76.44%;
+        top: 2200px;
+        bottom: 16.78%;
+        ">
+        
+        <img src="F:\web/bagg.png" alt="" 
+        style="position: absolute;
+        width: 106px;
+        height: 139.54px;
+        left: 731px;
+        top: 2210px;" >
+        
+        <img src="F:\web/baggg.png" alt="" 
+        style="position: absolute;
+        left: 75.56%;
+        right: 15.7%;
+        top: 2200px;
+        bottom: 16.77%;
+        ">
+        
+        <p 
+        style="position: absolute;
+        width: 447px;
+        height: 195px;
+        left: 90px;
+        top: 2349px;
+        
+        font-family: 'Hind Siliguri';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 39px;
+        text-align: center;
+        
+        color: #FFFFFF;">যদিও ৮টি গ্রুপের রক্তেরই প্রয়োজন পড়ে, তবে 
+            এক্ষেত্রে সবচেয়ে বেশি লাগে ‘ও পজিটিভ’ রক্ত
+            বিশ্বের ৩৫ শতাংশ মানুষের এই রক্ত রয়েছে৷ এর
+            পরের অবস্থান ‘এ পজিটিভ’-এর – শতকরা ৩০ভাগ
+            সবচেয়ে বিরল রক্তের গ্রুপ ‘ও নেগেটিভ’৷</p>
+
+        <p style=" position: absolute;
+        width: 490px;
+        height: 195px;
+        left: 555px;
+        top: 2350px;
+        
+        font-family: 'Hind Siliguri';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 39px;
+        text-align: center;
+        
+        color: #FFFFFF;"
+        >বাংলাদেশে স্বেচ্ছায় রক্তদানের মাধ্যমে পাঁচটি পরীক্ষা 
+        সম্পূর্ণ বিনা খরচে সম্পন্ন হয়ে যায়৷ এর মাধ্যমে জানা যায়
+        ,শরীরে অন্য বড় কোনো রোগ যেমন—হেপাটাইটিস-বি, 
+        হেপাটাইটিস-সি, ম্যালেরিয়া, সিফিলিস, এইচআইভি 
+        (এইডস) প্রভৃতি আছে কিনা৷
+        </p>
+
+        <p style="position: absolute;
+        width: 490px;
+        height: 234px;
+        left: 1045px;
+        top: 2349px;
+        
+        font-family: 'Hind Siliguri';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 39px;
+        text-align: center;
+        
+        color: #FFFFFF;">
+            রক্তদানে যে কেবল মানুষের জীবন বাঁচে, তা নয়, এর 
+            মাধ্যমে রক্তদাতাও উপকৃত হন নানাভাবে৷ এর মধ্যে 
+            কয়েকটি হলো– নিয়মিত রক্তদান করলে ক্যানসারে 
+            আক্রান্ত হওয়ার ঝুঁকি কম থাকে, বছরে তিনবার রক্ত দিলে
+            শরীরে নতুন লোহিত কণিকা তৈরির হার বেড়ে যায়, 
+            অস্থি-মজ্জা সক্রিয় থাকে ও দ্রুত রক্ত স্বল্পতা পূরণ হয়৷</p>
+
+    </div>
+
+    <footer> <p style="position: absolute;
+        width: 352px;
+        height: 36px;
+        left: 53px;
+        top: 2665px;
+        
+        font-family: 'Hind Siliguri';
+        font-style: normal;
+        font-weight: 200;
+        font-size: 24px;
+        line-height: 60px;
+        color: #FFFFFF;
+        ">All Copyrights ar researved by</p> <img src="F:\web/Group 2.png" alt="" 
+        style="position: absolute;
+        width: 212px;
+        height: 38.62px;
+        left: 1325px;
+        top: 2699px;"></footer>
+
+        <p style="position: absolute;
+        width: 352px;
+        height: 36px;
+        left: 624px;
+        top: 2738px;
+        
+        font-family: 'Hind Siliguri';
+        font-style: normal;
+        font-weight: 275;
+        font-size: 24px;
+        line-height: 36px;
+        /* identical to box height */
+
+        color:#FFFFFF;
+        
+        text-align: center;">Tashdid Bin Wahid</p>
+    </body>
+
+
+</html>
